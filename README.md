@@ -2,9 +2,6 @@
 
 
 
-# A decentralised and distributed platform for Freelancing community
-
-## Project Name: Zero Knowledge Freelance Platform 
 
 ---
 
